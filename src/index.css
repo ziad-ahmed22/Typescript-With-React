@@ -1,0 +1,17 @@
+body {
+  background-color: #222;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+* {
+  font-size: 18px;
+  letter-spacing: 1px;
+  margin-bottom: 5px;
+}
+h1 {
+  background-color: rgba(254, 239, 212, 0.073);
+  color: wheat;
+  padding: 5px;
+  text-transform: capitalize;
+  margin: 25px 0 15px;
+}
