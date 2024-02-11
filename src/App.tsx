@@ -13,7 +13,7 @@ import Box from "./components/context/Box";
 import { UserProvider } from "./components/context/UserContext";
 import Userrr from "./components/context/Userrr";
 
-function App(): JSX.Element {
+function App() {
   const obj = { fname: "ziad", lname: "ahmed" };
   const numArr = [1, 2, 3];
   const strArr = ["str1", "str2", "str3"];
